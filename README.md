@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 <p float="left">
-  <img src="https://github.com/iquasere/iquasere/blob/main/mosca_logo.png" height="300">
-  Workflow description.
+  <img src="https://raw.githubusercontent.com/iquasere/iquasere/main/assets/paper_pipeline_workflow.png">
 </p>
+<div float="right">Workflow description.</div>
