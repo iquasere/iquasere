@@ -17,7 +17,7 @@ These are the main tools I have developed for meta-omics analyses:
 [MOSCA](https://github.com/iquasere/MOSCA) is a powerful pipeline developed for metagenomics (MG), metatranscriptomics (MT) and metaproteomics (MP) integrated analyses.
 
 <p align="center">
-    <img src="assets/mosca_workflow.png" align="center" width="600">
+    <img src="assets/mosca_workflow.png" align="center" width="700">
 </p>
 
 <details>
