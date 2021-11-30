@@ -1,14 +1,20 @@
-## My work in meta-omics analyses
+## Tools for meta-omics analyses
 
-If you have interest in my work, is likely you work with meta-omics, the study of the collection of either genomes, transcriptomes or proteomes of a microbial community.
+My work has mostly been the development of tools for analyses of meta-omics data, i.e., the study of the collective genomes, transcriptomes or proteomes of a microbial community.
 
-This presentation describes the tools I have developed for meta-omics analyses.
+These are the main tools I have developed for meta-omics analyses:
 
 ### UPIMAPI, reCOGnizer and KEGGCharter
 
 [UPIMAPI](https://github.com/iquasere/UPIMAPI), [reCOGnizer](https://github.com/iquasere/reCOGnizer) and [KEGGCharter](https://github.com/iquasere/KEGGCharter) are tools developed for the analyses of omics data, and optimized for handling the challenges of meta-omics.
 
-![](assets/annotation_workflow.png)
+<img src="assets/annotation_workflow.png" >
+
+### MOSCA
+
+[MOSCA](https://github.com/iquasere/MOSCA) is a powerful pipeline developed for metagenomics (MG), metatranscriptomics (MT) and metaproteomics (MP) integrated analyses.
+
+![](assets/mosca_workflow.png)
 
 
 <details>
