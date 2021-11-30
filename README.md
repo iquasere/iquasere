@@ -1,6 +1,11 @@
-### Hi there 👋
+## My work in meta-omics analyses
 
-<p float="left">
-  <img src="https://raw.githubusercontent.com/iquasere/iquasere/main/assets/paper_pipeline_workflow.png">
-</p>
-<div float="right">Workflow description.</div>
+If you have interest in my work, is likely you work with meta-omics, the study of the collection of either genomes, transcriptomes or proteomes of a microbial community.
+
+This presentation describes the tools I have developed for meta-omics analyses.
+
+### UPIMAPI, reCOGnizer and KEGGCharter
+
+[UPIMAPI](https://github.com/iquasere/UPIMAPI), [reCOGnizer](https://github.com/iquasere/reCOGnizer) and [KEGGCharter](https://github.com/iquasere/KEGGCharter) are tools developed for the analyses of omics data, and optimized for handling the challenges of meta-omics.
+
+![](assets/annotation_workflow.png)
