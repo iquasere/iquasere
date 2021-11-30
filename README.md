@@ -8,13 +8,13 @@ These are the main tools I have developed for meta-omics analyses:
 
 [UPIMAPI](https://github.com/iquasere/UPIMAPI), [reCOGnizer](https://github.com/iquasere/reCOGnizer) and [KEGGCharter](https://github.com/iquasere/KEGGCharter) are tools developed for the analyses of omics data, and optimized for handling the challenges of meta-omics.
 
-<img src="assets/annotation_workflow.png" >
+<img src="assets/annotation_workflow.png" width="400">
 
 ### MOSCA
 
 [MOSCA](https://github.com/iquasere/MOSCA) is a powerful pipeline developed for metagenomics (MG), metatranscriptomics (MT) and metaproteomics (MP) integrated analyses.
 
-![](assets/mosca_workflow.png)
+<img src="assets/mosca_workflow.png" width="400">
 
 
 <details>
