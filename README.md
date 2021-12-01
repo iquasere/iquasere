@@ -20,8 +20,5 @@ These are the main tools I have developed for meta-omics analyses:
     <img src="assets/mosca_workflow.png" align="center" width="700">
 </p>
 
-<details>
-  <summary>About me</summary>
-  <!--START_SECTION:waka-->
-  <!--END_SECTION:waka-->
-</details>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
