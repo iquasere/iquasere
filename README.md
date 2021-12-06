@@ -25,7 +25,7 @@ These are the main tools I have developed for meta-omics analyses:
 </p>
 
 
-#### Finally, some metrics about my coding routine
+### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
