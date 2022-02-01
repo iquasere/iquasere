@@ -13,7 +13,7 @@ These are the main tools I have developed for meta-omics analyses:
 [UPIMAPI](https://github.com/iquasere/UPIMAPI), [reCOGnizer](https://github.com/iquasere/reCOGnizer) and [KEGGCharter](https://github.com/iquasere/KEGGCharter) are tools developed for the analyses of omics data, and optimized for handling the challenges of meta-omics.
 
 <p align="center">
-    <img src="assets/annotation_workflow.png">
+    <img src="assets/annotation_paper.png">
 </p>
 
 #### MOSCA
@@ -25,7 +25,7 @@ These are the main tools I have developed for meta-omics analyses:
 </p>
 
 
-### Finally, some metrics about my coding routine:
+#### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
