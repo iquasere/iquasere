@@ -28,7 +28,7 @@ These are the main tools I have developed for meta-omics analyses:
 #### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-335%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-336%20hrs%208%20mins-blue)
 
 **I'm an Early 🐤** 
 
@@ -57,11 +57,11 @@ Sunday       4 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   12 mins             █████████████████████████   99.93% 
-Snakemake                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+Python                   1 hr 24 mins        █████████████████████████   99.97% 
+Snakemake                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🐱‍💻 Projects: 
-MOSCA                    12 mins             █████████████████████████   100.0%
+MOSCA                    1 hr 24 mins        █████████████████████████   100.0%
 
 ```
 
@@ -78,5 +78,5 @@ TeX                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2022 18:47:58 UTC
+ Last Updated on 30/08/2022 18:47:04 UTC
 <!--END_SECTION:waka-->
