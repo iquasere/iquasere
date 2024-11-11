@@ -28,6 +28,8 @@ These are the main tools I have developed for meta-omics analyses:
 #### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-874%20hrs%2059%20mins-blue)
+
 **I'm an Early 🐤** 
 
 ```text
@@ -77,5 +79,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2024 18:51:07 UTC
+ Last Updated on 11/11/2024 18:51:45 UTC
 <!--END_SECTION:waka-->
