@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am a PhD student, using bioinformatics to "Uncover the role of conductive nanomaterials in anaerobic digestion".
+I was a PhD student, using bioinformatics to "Uncover the role of conductive nanomaterials in anaerobic digestion".
 
 ### Tools for meta-omics analyses
 
