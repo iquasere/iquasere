@@ -28,6 +28,39 @@ These are the main tools I have developed for meta-omics analyses:
 #### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C048%20hrs%2012%20mins-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1095 commits        ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+🌆 Daytime                2594 commits        █████████████░░░░░░░░░░░░   52.93 % 
+🌃 Evening                986 commits         █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+🌙 Night                  226 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   850 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Tuesday                  984 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Wednesday                1315 commits        ███████░░░░░░░░░░░░░░░░░░   26.83 % 
+Thursday                 735 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Friday                   656 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Saturday                 42 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Sunday                   319 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -41,5 +74,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 19:05:02 UTC
+ Last Updated on 04/01/2026 19:05:47 UTC
 <!--END_SECTION:waka-->
