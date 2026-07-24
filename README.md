@@ -31,21 +31,21 @@ These are the main tools I have developed for meta-omics analyses:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1748 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌆 Daytime                3929 commits        █████████████░░░░░░░░░░░░   52.48 % 
-🌃 Evening                1422 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-🌙 Night                  388 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+🌞 Morning                1744 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+🌆 Daytime                3921 commits        █████████████░░░░░░░░░░░░   52.50 % 
+🌃 Evening                1418 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+🌙 Night                  386 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1324 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Tuesday                  1704 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Wednesday                1871 commits        ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-Thursday                 1062 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Friday                   1008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   1322 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
+Tuesday                  1700 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Wednesday                1865 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+Thursday                 1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Friday                   1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
 Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Sunday                   461 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Sunday                   459 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 ```
 
 
@@ -53,14 +53,14 @@ Sunday                   461 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 23 mins       █████████████████████░░░░   83.06 % 
-Jinja2                   26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+YAML                     3 hrs 52 mins       ████████████████████░░░░░   79.26 % 
+Jinja2                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 % 
+Python                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🐱‍💻 Projects: 
-ansible-puli             4 hrs 5 mins        █████████████████████████   100.00 % 
+ansible-puli             4 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -76,5 +76,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 20:11:27 UTC
+ Last Updated on 24/07/2026 20:08:41 UTC
 <!--END_SECTION:waka-->
