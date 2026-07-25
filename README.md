@@ -28,24 +28,26 @@ These are the main tools I have developed for meta-omics analyses:
 #### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C102%20hrs%2015%20mins-blue?style=flat)
+
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1744 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-🌆 Daytime                3921 commits        █████████████░░░░░░░░░░░░   52.50 % 
-🌃 Evening                1418 commits        █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-🌙 Night                  386 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+🌞 Morning                1664 commits        ██████░░░░░░░░░░░░░░░░░░░   23.41 % 
+🌆 Daytime                3761 commits        █████████████░░░░░░░░░░░░   52.90 % 
+🌃 Evening                1338 commits        █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+🌙 Night                  346 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1322 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Tuesday                  1700 commits        ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-Wednesday                1865 commits        ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-Thursday                 1060 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-Friday                   1006 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
-Sunday                   459 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+Monday                   1282 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Tuesday                  1620 commits        ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+Wednesday                1745 commits        ██████░░░░░░░░░░░░░░░░░░░   24.55 % 
+Thursday                 1020 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Friday                   966 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
+Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Sunday                   419 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 
 
@@ -76,5 +78,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 20:08:41 UTC
+ Last Updated on 25/07/2026 19:54:51 UTC
 <!--END_SECTION:waka-->
