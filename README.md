@@ -28,28 +28,28 @@ These are the main tools I have developed for meta-omics analyses:
 #### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2048%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1644 commits        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
-🌆 Daytime                3719 commits        █████████████░░░░░░░░░░░░   53.02 % 
-🌃 Evening                1316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-🌙 Night                  335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+🌞 Morning                1374 commits        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
+🌆 Daytime                2859 commits        █████████████░░░░░░░░░░░░   51.86 % 
+🌃 Evening                1000 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+🌙 Night                  280 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1274 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-Tuesday                  1599 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-Wednesday                1712 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
-Thursday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
-Friday                   955 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
-Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Sunday                   408 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Monday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Tuesday                  1206 commits        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Wednesday                1509 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
+Thursday                 774 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Friday                   695 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+Saturday                 25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Sunday                   380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
 ```
 
 
@@ -57,14 +57,14 @@ Sunday                   408 commits         █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     1 hr 49 mins        ███████████████░░░░░░░░░░   61.12 % 
-Markdown                 40 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-Lua                      23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.05 % 
-Jinja2                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+YAML                     1 hr 49 mins        ████████████████████████░   94.64 % 
+Jinja2                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+Config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-ansible-puli             2 hrs 59 mins       █████████████████████████   100.00 % 
+ansible-puli             1 hr 55 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -86,5 +86,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/08/2026 20:21:38 UTC
+ Last Updated on 05/08/2026 20:25:36 UTC
 <!--END_SECTION:waka-->
