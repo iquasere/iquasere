@@ -28,51 +28,6 @@ These are the main tools I have developed for meta-omics analyses:
 #### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2048%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20mins-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1374 commits        ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-🌆 Daytime                2859 commits        █████████████░░░░░░░░░░░░   51.86 % 
-🌃 Evening                1000 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
-🌙 Night                  280 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   924 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Tuesday                  1206 commits        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
-Wednesday                1509 commits        ███████░░░░░░░░░░░░░░░░░░   27.37 % 
-Thursday                 774 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-Friday                   695 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
-Saturday                 25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Sunday                   380 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-YAML                     1 hr 49 mins        ████████████████████████░   94.64 % 
-Jinja2                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
-
-🐱‍💻 Projects: 
-ansible-puli             1 hr 55 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -86,5 +41,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/08/2026 20:25:36 UTC
+ Last Updated on 07/08/2026 00:35:32 UTC
 <!--END_SECTION:waka-->
