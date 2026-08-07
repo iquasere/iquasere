@@ -28,6 +28,49 @@ These are the main tools I have developed for meta-omics analyses:
 #### Finally, some metrics about my coding routine:
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C088%20hrs%2048%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-50%20mins-blue?style=flat)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1644 commits        ██████░░░░░░░░░░░░░░░░░░░   23.44 % 
+🌆 Daytime                3719 commits        █████████████░░░░░░░░░░░░   53.02 % 
+🌃 Evening                1316 commits        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+🌙 Night                  335 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   1274 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Tuesday                  1599 commits        ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
+Wednesday                1712 commits        ██████░░░░░░░░░░░░░░░░░░░   24.41 % 
+Thursday                 1009 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Friday                   955 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.62 % 
+Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Sunday                   408 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Markdown                 2 mins              ██████████░░░░░░░░░░░░░░░   38.73 % 
+YAML                     2 mins              ████████░░░░░░░░░░░░░░░░░   30.76 % 
+Jinja2                   2 mins              ████████░░░░░░░░░░░░░░░░░   30.51 % 
+
+🐱‍💻 Projects: 
+ansible-puli             7 mins              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -41,5 +84,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 00:35:32 UTC
+ Last Updated on 07/08/2026 19:42:43 UTC
 <!--END_SECTION:waka-->
