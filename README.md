@@ -35,21 +35,21 @@ These are the main tools I have developed for meta-omics analyses:
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1396 commits        ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-🌆 Daytime                2888 commits        █████████████░░░░░░░░░░░░   51.82 % 
-🌃 Evening                1006 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
-🌙 Night                  283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+🌞 Morning                1692 commits        ██████░░░░░░░░░░░░░░░░░░░   23.53 % 
+🌆 Daytime                3800 commits        █████████████░░░░░░░░░░░░   52.84 % 
+🌃 Evening                1348 commits        █████░░░░░░░░░░░░░░░░░░░░   18.75 % 
+🌙 Night                  351 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   930 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Tuesday                  1222 commits        █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Wednesday                1528 commits        ███████░░░░░░░░░░░░░░░░░░   27.42 % 
-Thursday                 784 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Friday                   701 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Sunday                   383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Monday                   1293 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
+Tuesday                  1641 commits        ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
+Wednesday                1770 commits        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
+Thursday                 1032 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Friday                   974 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
+Saturday                 57 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Sunday                   424 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
 ```
 
 
@@ -57,10 +57,13 @@ Sunday                   383 commits         ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-YAML                     12 mins             █████████████████████████   100.00 % 
+YAML                     47 mins             █████████████████████░░░░   84.71 % 
+Jinja2                   6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Config                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 🐱‍💻 Projects: 
-ansible-puli             12 mins             █████████████████████████   100.00 % 
+ansible-puli             55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -82,5 +85,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/09/2026 21:56:09 UTC
+ Last Updated on 16/09/2026 21:46:13 UTC
 <!--END_SECTION:waka-->
